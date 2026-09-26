@@ -8,8 +8,8 @@ const USER_CONFIG = {
     photo:      "assets/Haitao_photo.jpg",   // optional: path to your photo, e.g. "assets/photo.jpg"
   
     stats: [
-      { value: "3",  label: "Publications" },
-      { value: "2", label: "Academic Projects" },
+      { value: "5",  label: "Publications" },
+      { value: "9", label: "Citations" },
       { value: "1",   label: "Business Plan" },
     ],
   
